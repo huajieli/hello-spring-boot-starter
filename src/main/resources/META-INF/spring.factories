@@ -1,0 +1,2 @@
+#在resources目录下创建META-INF/spring.factories,读取配置类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.huajieli.config.HelloServiceAutoConfiguration
